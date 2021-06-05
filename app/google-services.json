@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1044651778669",
+    "firebase_url": "https://whatsapp-statussaver-c6cf8.firebaseio.com",
+    "project_id": "whatsapp-statussaver-c6cf8",
+    "storage_bucket": "whatsapp-statussaver-c6cf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044651778669:android:00578d3f4326d229eb1564",
+        "android_client_info": {
+          "package_name": "com.app.tanish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044651778669-7d0du2us4bqgo6n5cdjuf48ha1jo20mm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.tanish",
+            "certificate_hash": "28da3fa0fc29f7fba01c4cc06100b76581e1468e"
+          }
+        },
+        {
+          "client_id": "1044651778669-77dsbmtlmaujmsgppbvc1t9220rc828i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDqS8oIxyKP40xrEwN3bpIhniYUOyCQa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044651778669-77dsbmtlmaujmsgppbvc1t9220rc828i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

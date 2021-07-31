@@ -1,4 +1,4 @@
-# WhatsApp Status saver
+# WhatsApp Status saver Application
 
 I developed this staus app to download whatsapp staus.
 
